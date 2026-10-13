@@ -1,0 +1,47 @@
+{
+  "id": 11,
+  "slug": "11-barbearia-express",
+  "name": "Barbearia Express",
+  "kind": "barber",
+  "neighborhood": "Renascença",
+  "headline": "Uma pausa para cuidar de você.",
+  "description": "A Barbearia Express recebe você no Tropical Shopping, ao lado da Selfit, no Renascença.",
+  "accent": "#e4c460",
+  "address": "Av. Colares Moreira, 400, Galeria Boulevard Tropical, loja 202",
+  "whatsapp": "5598984689832",
+  "instagram": "https://www.instagram.com/__barbearia_express/",
+  "maps": "https://www.google.com/maps?cid=9213564141711056948",
+  "hours": [
+    [
+      "Segunda a sábado",
+      "9h às 20h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/11/photo-2.webp",
+  "logo": "media/11/logo.webp",
+  "gallery": [
+    "media/11/photo-1.webp",
+    "media/11/photo-2.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "A Barbearia Express recebe você no Tropical Shopping, ao lado da Selfit, no Renascença.",
+  "researchDate": "2026-10-13"
+}

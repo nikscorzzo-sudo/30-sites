@@ -1,0 +1,53 @@
+{
+  "id": 6,
+  "slug": "06-boleiragem-barbearia",
+  "name": "Boleiragem Barbearia",
+  "kind": "barber",
+  "neighborhood": "Parque Athenas",
+  "headline": "Cabelo, barba e resenha.",
+  "description": "A Boleiragem Barbearia está no Parque Athenas. Escolha o cuidado que procura e fale com a equipe.",
+  "accent": "#c8c6b7",
+  "address": "Av. Beta, 15",
+  "whatsapp": "5598982660574",
+  "instagram": "https://www.instagram.com/barbeariaboleiragem/",
+  "maps": "https://www.google.com/maps?cid=7807646639239386388",
+  "hours": [
+    [
+      "Segunda a sábado",
+      "9h30 às 19h30"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Cabelo",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-3",
+      "name": "Sobrancelha",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/06/photo-1.webp",
+  "logo": "media/06/logo.webp",
+  "gallery": [
+    "media/06/photo-1.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "A Boleiragem Barbearia está no Parque Athenas. Escolha o cuidado que procura e fale com a equipe.",
+  "researchDate": "2026-10-13"
+}

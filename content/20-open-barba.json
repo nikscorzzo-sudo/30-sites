@@ -1,0 +1,49 @@
+{
+  "id": 20,
+  "slug": "20-open-barba",
+  "name": "Open Barba",
+  "kind": "barber",
+  "neighborhood": "Ponta do Farol",
+  "headline": "Um tempo para o seu estilo.",
+  "description": "Cabelo e barba na Ponta do Farol. Conheça a Open Barba e combine sua próxima visita pelo WhatsApp.",
+  "accent": "#e0b449",
+  "address": "R. São Marcos, 08, Ed. Unique Home Service, loja 03 térreo",
+  "whatsapp": "5598981122411",
+  "instagram": "https://www.instagram.com/openbarbaslz/",
+  "maps": "https://www.google.com/maps?cid=1119868853681707511",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-3",
+      "name": "Acabamento",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/20/photo-2.webp",
+  "logo": "media/20/logo.webp",
+  "gallery": [
+    "media/20/photo-1.webp",
+    "media/20/photo-2.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "Cabelo e barba na Ponta do Farol. Conheça a Open Barba e combine sua próxima visita pelo WhatsApp.",
+  "researchDate": "2026-10-13"
+}

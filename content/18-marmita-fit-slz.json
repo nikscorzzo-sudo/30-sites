@@ -1,0 +1,32 @@
+{
+  "id": 18,
+  "slug": "18-marmita-fit-slz",
+  "name": "Marmita Fit SLZ",
+  "kind": "healthy",
+  "neighborhood": "Cidade Operária",
+  "headline": "Sua rotina com mais praticidade.",
+  "description": "Marmitas fit em São Luís para facilitar a hora de comer. Consulte opções, composição e disponibilidade com a Marmita Fit SLZ.",
+  "accent": "#477649",
+  "address": "R. 6, unidade 205, nº 50",
+  "whatsapp": "5598985236280",
+  "instagram": "https://www.instagram.com/marmita_fit_slz/",
+  "maps": "https://www.google.com/maps?cid=17921018680151400804",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Marmita fit",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": null,
+  "logo": "media/18/logo.webp",
+  "gallery": [],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "food",
+  "about": "Marmitas fit em São Luís para facilitar a hora de comer. Consulte opções, composição e disponibilidade com a Marmita Fit SLZ.",
+  "researchDate": "2026-10-13"
+}

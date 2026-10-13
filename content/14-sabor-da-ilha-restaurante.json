@@ -1,0 +1,53 @@
+{
+  "id": 14,
+  "slug": "14-sabor-da-ilha-restaurante",
+  "name": "Sabor da Ilha Restaurante",
+  "kind": "food",
+  "neighborhood": "Jardim São Cristóvão",
+  "headline": "Sabores que são a cara da ilha.",
+  "description": "Mocotó, bode, galinha caipira e sarrabulho: comida caseira no Jardim São Cristóvão. Consulte os pratos preparados para hoje.",
+  "accent": "#96734b",
+  "address": "Rua 31 de Dezembro, casa 31, quadra 122",
+  "whatsapp": "5598981433667",
+  "instagram": "https://www.instagram.com/sabordailha01/",
+  "maps": "https://www.google.com/maps?cid=12347995658504567917",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Mocotó",
+      "category": "Pratos regionais",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Bode",
+      "category": "Pratos regionais",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-3",
+      "name": "Galinha caipira",
+      "category": "Pratos regionais",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-4",
+      "name": "Sarrabulho",
+      "category": "Pratos regionais",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": null,
+  "logo": "media/14/logo.webp",
+  "gallery": [],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "food",
+  "about": "Mocotó, bode, galinha caipira e sarrabulho: comida caseira no Jardim São Cristóvão. Consulte os pratos preparados para hoje.",
+  "researchDate": "2026-10-13"
+}

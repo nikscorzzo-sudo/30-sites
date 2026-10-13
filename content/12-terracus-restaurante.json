@@ -1,0 +1,37 @@
+{
+  "id": 12,
+  "slug": "12-terracus-restaurante",
+  "name": "Terraçus Restaurante",
+  "kind": "food",
+  "neighborhood": "São Cristóvão",
+  "headline": "Comida de casa. Hora do almoço.",
+  "description": "Self-service sem balança no São Cristóvão. Um convite para fazer uma pausa e aproveitar a comida caseira da Terraçus.",
+  "accent": "#b4362d",
+  "address": "R. Haroldo Paiva, casa 26",
+  "whatsapp": "5598981290661",
+  "instagram": "https://www.instagram.com/terracusrestaurante/",
+  "maps": "https://www.google.com/maps?cid=17625092350402935191",
+  "hours": [
+    [
+      "Segunda a sábado",
+      "11h às 15h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Self-service sem balança",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": null,
+  "logo": "media/12/logo.webp",
+  "gallery": [],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "food",
+  "about": "Self-service sem balança no São Cristóvão. Um convite para fazer uma pausa e aproveitar a comida caseira da Terraçus.",
+  "researchDate": "2026-10-13"
+}

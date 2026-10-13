@@ -1,0 +1,47 @@
+{
+  "id": 22,
+  "slug": "22-lord-barbearia",
+  "name": "Lord Barbearia",
+  "kind": "barber",
+  "neighborhood": "Santo Antônio",
+  "headline": "Seu estilo é na Lord.",
+  "description": "Atendimento por ordem de chegada no Santo Antônio, de terça a domingo. Fale com a equipe antes de visitar.",
+  "accent": "#b09066",
+  "address": "R. Miritiba, 542",
+  "whatsapp": "5598982519640",
+  "instagram": "https://www.instagram.com/lord.barbearia__/",
+  "maps": "https://www.google.com/maps?cid=17838774379944092878",
+  "hours": [
+    [
+      "Terça a domingo",
+      "Consulte os horários"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/22/photo-2.webp",
+  "logo": "media/22/logo.webp",
+  "gallery": [
+    "media/22/photo-1.webp",
+    "media/22/photo-2.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "arrival",
+  "about": "Atendimento por ordem de chegada no Santo Antônio, de terça a domingo. Fale com a equipe antes de visitar.",
+  "researchDate": "2026-10-13"
+}

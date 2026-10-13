@@ -1,0 +1,48 @@
+{
+  "id": 2,
+  "slug": "02-pais-e-filhos",
+  "name": "Pais e Filhos",
+  "kind": "barber",
+  "neighborhood": "Renascença",
+  "headline": "Seu estilo. Seu momento.",
+  "description": "Uma barbearia dedicada ao universo masculino, no Renascença. Veja os trabalhos e converse com a equipe Pais & Filhos.",
+  "accent": "#d6ac68",
+  "address": "Av. do Vale, 12 — Edifício Zircônio, loja 4, Renascença II",
+  "whatsapp": "5598991446749",
+  "instagram": "https://www.instagram.com/barbeariapaisefilhos/",
+  "maps": "https://www.google.com/maps?cid=1773431433047909974",
+  "hours": [
+    [
+      "Horário divulgado",
+      "9h às 20h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/02/photo-2.webp",
+  "logo": "media/02/logo.webp",
+  "gallery": [
+    "media/02/photo-1.webp",
+    "media/02/photo-2.webp",
+    "media/02/photo-3.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "Uma barbearia dedicada ao universo masculino, no Renascença. Veja os trabalhos e converse com a equipe Pais & Filhos.",
+  "researchDate": "2026-10-13"
+}

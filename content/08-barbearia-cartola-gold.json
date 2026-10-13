@@ -1,0 +1,42 @@
+{
+  "id": 8,
+  "slug": "08-barbearia-cartola-gold",
+  "name": "Barbearia Cartola Gold",
+  "kind": "barber",
+  "neighborhood": "João Paulo",
+  "headline": "Um toque de ouro no seu estilo.",
+  "description": "Conheça a Cartola Gold, no João Paulo. Veja o ambiente da barbearia e converse diretamente sobre seu atendimento.",
+  "accent": "#dab65a",
+  "address": "R. Agostinho Torres, 487",
+  "whatsapp": "5598988745765",
+  "instagram": "https://www.instagram.com/barbeariacartolagold/",
+  "maps": "https://www.google.com/maps?cid=16984621375402010641",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/08/photo-1.webp",
+  "logo": "media/08/logo.webp",
+  "gallery": [
+    "media/08/photo-1.webp",
+    "media/08/photo-2.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "Conheça a Cartola Gold, no João Paulo. Veja o ambiente da barbearia e converse diretamente sobre seu atendimento.",
+  "researchDate": "2026-10-13"
+}

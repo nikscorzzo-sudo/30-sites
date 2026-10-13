@@ -1,0 +1,51 @@
+{
+  "id": 29,
+  "slug": "29-jordan-barbearia",
+  "name": "Jordan Barbearia",
+  "kind": "barber",
+  "neighborhood": "Cidade Operária",
+  "headline": "Um novo corte. Outra presença.",
+  "description": "A Jordan Barbearia fica na Avenida Este, 103, em frente à Igreja da Divina Providência, na Cidade Operária.",
+  "accent": "#d5ad4c",
+  "address": "Av. Este, 103 — Cidade Operária",
+  "whatsapp": "5598984726123",
+  "instagram": "https://www.instagram.com/jordanbarbearia_/",
+  "maps": "https://www.google.com/maps?cid=1520609075181484520",
+  "hours": [
+    [
+      "Segunda a sábado",
+      "10h às 20h"
+    ],
+    [
+      "Domingo",
+      "10h às 13h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/29/photo-2.webp",
+  "logo": "media/29/logo.webp",
+  "gallery": [
+    "media/29/photo-1.webp",
+    "media/29/photo-2.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "A Jordan Barbearia fica na Avenida Este, 103, em frente à Igreja da Divina Providência, na Cidade Operária.",
+  "researchDate": "2026-10-13"
+}

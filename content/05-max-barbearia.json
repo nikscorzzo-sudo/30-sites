@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "05-max-barbearia",
+  "name": "Max Barbearia",
+  "kind": "barber",
+  "neighborhood": "Chácara Brasil",
+  "headline": "Estilo para todas as idades.",
+  "description": "Cortes adultos e infantis na Chácara Brasil. Na Max Barbearia, o próximo visual começa com uma boa conversa.",
+  "accent": "#d4b278",
+  "address": "Av. Mato Grosso, 160 — Chácara Brasil",
+  "whatsapp": "5598989187850",
+  "instagram": "https://www.instagram.com/maxbarbeariaa_/",
+  "maps": "https://www.google.com/maps?cid=16698230034308043204",
+  "hours": [
+    [
+      "Segunda a sábado",
+      "9h às 19h"
+    ],
+    [
+      "Domingo",
+      "9h às 13h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte adulto",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Corte infantil",
+      "category": "Infantil",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/05/photo-3.webp",
+  "logo": "media/05/logo.webp",
+  "gallery": [
+    "media/05/photo-3.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "Cortes adultos e infantis na Chácara Brasil. Na Max Barbearia, o próximo visual começa com uma boa conversa.",
+  "researchDate": "2026-10-13"
+}

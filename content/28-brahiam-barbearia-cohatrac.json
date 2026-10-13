@@ -1,0 +1,55 @@
+{
+  "id": 28,
+  "slug": "28-brahiam-barbearia-cohatrac",
+  "name": "Brahiam Barbearia — Cohatrac",
+  "kind": "barber",
+  "neighborhood": "Planalto Anil III",
+  "headline": "Imagem que traduz você.",
+  "description": "Corte, barba, visagismo e prótese capilar na unidade Cohatrac da Brahiam. Conheça os serviços e consulte a equipe.",
+  "accent": "#b5a58d",
+  "address": "R. Cinco, s/n, quadra 22",
+  "whatsapp": "5598987887752",
+  "instagram": "https://www.instagram.com/brahiambarbearia/",
+  "maps": "https://www.google.com/maps?cid=2860575419484821501",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte",
+      "category": "Cabelo e barba",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Cabelo e barba",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-3",
+      "name": "Visagismo",
+      "category": "Imagem e estilo",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-4",
+      "name": "Prótese capilar",
+      "category": "Imagem e estilo",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/28/photo-1.webp",
+  "logo": "media/28/logo.webp",
+  "gallery": [
+    "media/28/photo-1.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "Corte, barba, visagismo e prótese capilar na unidade Cohatrac da Brahiam. Conheça os serviços e consulte a equipe.",
+  "researchDate": "2026-10-13"
+}

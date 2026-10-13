@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Barbearia Dom Lasmim",
+    "slug": "01-barbearia-dom-lasmim",
+    "path": "sites/01-barbearia-dom-lasmim/",
+    "whatsapp": "5598987575069",
+    "category": "barber"
+  },
+  {
+    "id": 2,
+    "name": "Pais e Filhos",
+    "slug": "02-pais-e-filhos",
+    "path": "sites/02-pais-e-filhos/",
+    "whatsapp": "5598991446749",
+    "category": "barber"
+  },
+  {
+    "id": 3,
+    "name": "Barbearia Vinicius Berbare",
+    "slug": "03-barbearia-vinicius-berbare",
+    "path": "sites/03-barbearia-vinicius-berbare/",
+    "whatsapp": "5598986088604",
+    "category": "barber"
+  },
+  {
+    "id": 4,
+    "name": "Sr. Guimarães Barbearia",
+    "slug": "04-sr-guimaraes-barbearia",
+    "path": "sites/04-sr-guimaraes-barbearia/",
+    "whatsapp": "5598986020870",
+    "category": "barber"
+  },
+  {
+    "id": 5,
+    "name": "Max Barbearia",
+    "slug": "05-max-barbearia",
+    "path": "sites/05-max-barbearia/",
+    "whatsapp": "5598989187850",
+    "category": "barber"
+  },
+  {
+    "id": 6,
+    "name": "Boleiragem Barbearia",
+    "slug": "06-boleiragem-barbearia",
+    "path": "sites/06-boleiragem-barbearia/",
+    "whatsapp": "5598982660574",
+    "category": "barber"
+  },
+  {
+    "id": 7,
+    "name": "Rick’s Barbearia",
+    "slug": "07-ricks-barbearia",
+    "path": "sites/07-ricks-barbearia/",
+    "whatsapp": "5598989247025",
+    "category": "barber"
+  },
+  {
+    "id": 8,
+    "name": "Barbearia Cartola Gold",
+    "slug": "08-barbearia-cartola-gold",
+    "path": "sites/08-barbearia-cartola-gold/",
+    "whatsapp": "5598988745765",
+    "category": "barber"
+  },
+  {
+    "id": 9,
+    "name": "Ilha Brasa Burguer",
+    "slug": "09-ilha-brasa-burguer",
+    "path": "sites/09-ilha-brasa-burguer/",
+    "whatsapp": "5598985498570",
+    "category": "food"
+  },
+  {
+    "id": 10,
+    "name": "Hamburgueria DDD98",
+    "slug": "10-hamburgueria-ddd98",
+    "path": "sites/10-hamburgueria-ddd98/",
+    "whatsapp": "5598985049997",
+    "category": "food"
+  },
+  {
+    "id": 11,
+    "name": "Barbearia Express",
+    "slug": "11-barbearia-express",
+    "path": "sites/11-barbearia-express/",
+    "whatsapp": "5598984689832",
+    "category": "barber"
+  },
+  {
+    "id": 12,
+    "name": "Terraçus Restaurante",
+    "slug": "12-terracus-restaurante",
+    "path": "sites/12-terracus-restaurante/",
+    "whatsapp": "5598981290661",
+    "category": "food"
+  },
+  {
+    "id": 13,
+    "name": "Talher de Ouro",
+    "slug": "13-talher-de-ouro",
+    "path": "sites/13-talher-de-ouro/",
+    "whatsapp": "5598984351842",
+    "category": "food"
+  },
+  {
+    "id": 14,
+    "name": "Sabor da Ilha Restaurante",
+    "slug": "14-sabor-da-ilha-restaurante",
+    "path": "sites/14-sabor-da-ilha-restaurante/",
+    "whatsapp": "5598981433667",
+    "category": "food"
+  },
+  {
+    "id": 15,
+    "name": "Restaurante Rancho Caseiro",
+    "slug": "15-restaurante-rancho-caseiro",
+    "path": "sites/15-restaurante-rancho-caseiro/",
+    "whatsapp": "5598988442587",
+    "category": "food"
+  },
+  {
+    "id": 16,
+    "name": "Restaurante Delícias do Sol",
+    "slug": "16-restaurante-delicias-do-sol",
+    "path": "sites/16-restaurante-delicias-do-sol/",
+    "whatsapp": "5598984765416",
+    "category": "food"
+  },
+  {
+    "id": 17,
+    "name": "Restaurante Oliveiras",
+    "slug": "17-restaurante-oliveiras",
+    "path": "sites/17-restaurante-oliveiras/",
+    "whatsapp": "5598987580374",
+    "category": "food"
+  },
+  {
+    "id": 18,
+    "name": "Marmita Fit SLZ",
+    "slug": "18-marmita-fit-slz",
+    "path": "sites/18-marmita-fit-slz/",
+    "whatsapp": "5598985236280",
+    "category": "healthy"
+  },
+  {
+    "id": 19,
+    "name": "Ben — Edson Nunes",
+    "slug": "19-ben-edson-nunes",
+    "path": "sites/19-ben-edson-nunes/",
+    "whatsapp": "5598982130021",
+    "category": "barber"
+  },
+  {
+    "id": 20,
+    "name": "Open Barba",
+    "slug": "20-open-barba",
+    "path": "sites/20-open-barba/",
+    "whatsapp": "5598981122411",
+    "category": "barber"
+  },
+  {
+    "id": 21,
+    "name": "Barbearia Legends",
+    "slug": "21-barbearia-legends",
+    "path": "sites/21-barbearia-legends/",
+    "whatsapp": "5598981978603",
+    "category": "barber"
+  },
+  {
+    "id": 22,
+    "name": "Lord Barbearia",
+    "slug": "22-lord-barbearia",
+    "path": "sites/22-lord-barbearia/",
+    "whatsapp": "5598982519640",
+    "category": "barber"
+  },
+  {
+    "id": 23,
+    "name": "Cleber Barber Barbearia",
+    "slug": "23-cleber-barber-barbearia",
+    "path": "sites/23-cleber-barber-barbearia/",
+    "whatsapp": "5598982661085",
+    "category": "barber"
+  },
+  {
+    "id": 24,
+    "name": "Barbearia Rei do Corte",
+    "slug": "24-barbearia-rei-do-corte",
+    "path": "sites/24-barbearia-rei-do-corte/",
+    "whatsapp": "5598985942055",
+    "category": "barber"
+  },
+  {
+    "id": 25,
+    "name": "Coimbra Barbershop",
+    "slug": "25-coimbra-barbershop",
+    "path": "sites/25-coimbra-barbershop/",
+    "whatsapp": "5598984024536",
+    "category": "barber"
+  },
+  {
+    "id": 26,
+    "name": "D’Santos Barbearia",
+    "slug": "26-dsantos-barbearia",
+    "path": "sites/26-dsantos-barbearia/",
+    "whatsapp": "5598984653605",
+    "category": "barber"
+  },
+  {
+    "id": 27,
+    "name": "Barbearia Fernando",
+    "slug": "27-barbearia-fernando",
+    "path": "sites/27-barbearia-fernando/",
+    "whatsapp": "5598988129986",
+    "category": "barber"
+  },
+  {
+    "id": 28,
+    "name": "Brahiam Barbearia — Cohatrac",
+    "slug": "28-brahiam-barbearia-cohatrac",
+    "path": "sites/28-brahiam-barbearia-cohatrac/",
+    "whatsapp": "5598987887752",
+    "category": "barber"
+  },
+  {
+    "id": 29,
+    "name": "Jordan Barbearia",
+    "slug": "29-jordan-barbearia",
+    "path": "sites/29-jordan-barbearia/",
+    "whatsapp": "5598984726123",
+    "category": "barber"
+  },
+  {
+    "id": 30,
+    "name": "Fênix Lanches",
+    "slug": "30-fenix-lanches",
+    "path": "sites/30-fenix-lanches/",
+    "whatsapp": "5598984020186",
+    "category": "food"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": 7,
+  "slug": "07-ricks-barbearia",
+  "name": "Rick’s Barbearia",
+  "kind": "barber",
+  "neighborhood": "São Francisco",
+  "headline": "Seu próximo visual começa aqui.",
+  "description": "A Rick’s Barbearia fica no São Francisco. Conheça os trabalhos e consulte os horários de atendimento.",
+  "accent": "#b7b7ae",
+  "address": "R. Edmundo Calheiros, 264",
+  "whatsapp": "5598989247025",
+  "instagram": "https://www.instagram.com/ricks_barbearia_/",
+  "maps": "https://www.google.com/maps?cid=7534517687298485874",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/07/photo-2.webp",
+  "logo": "media/07/logo.webp",
+  "gallery": [
+    "media/07/photo-1.webp",
+    "media/07/photo-2.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "A Rick’s Barbearia fica no São Francisco. Conheça os trabalhos e consulte os horários de atendimento.",
+  "researchDate": "2026-10-13"
+}

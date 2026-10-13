@@ -1,0 +1,60 @@
+{
+  "id": 13,
+  "slug": "13-talher-de-ouro",
+  "name": "Talher de Ouro",
+  "kind": "food",
+  "neighborhood": "Cohab Anil III",
+  "headline": "O tempero que abraça.",
+  "description": "Comida caseira na Cohab Anil III, com opções de delivery. Consulte as preparações disponíveis no Talher de Ouro.",
+  "accent": "#bd632a",
+  "address": "Av. Dezesseis, 02",
+  "whatsapp": "5598984351842",
+  "instagram": "https://www.instagram.com/talherdeouro_1/",
+  "maps": "https://www.google.com/maps?cid=12192312756780401132",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Refeição caseira",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Lasanha",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-3",
+      "name": "Bisteca de boi",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-4",
+      "name": "Bisteca de porco",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-5",
+      "name": "Bife ao molho com fritas",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": null,
+  "logo": "media/13/logo.webp",
+  "gallery": [],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "food",
+  "about": "Comida caseira na Cohab Anil III, com opções de delivery. Consulte as preparações disponíveis no Talher de Ouro.",
+  "researchDate": "2026-10-13"
+}

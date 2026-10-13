@@ -1,0 +1,44 @@
+{
+  "id": 23,
+  "slug": "23-cleber-barber-barbearia",
+  "name": "Cleber Barber Barbearia",
+  "kind": "barber",
+  "neighborhood": "Anil",
+  "headline": "Lança o corte. Renova o visual.",
+  "description": "A Cleber Barber fica na Avenida Edson Brandão, quase em frente ao Eco Park. Conheça os trabalhos e fale com o barbeiro.",
+  "accent": "#c3a355",
+  "address": "Av. Edson Brandão, loja D",
+  "whatsapp": "5598982661085",
+  "instagram": "https://www.instagram.com/cleberbarberbarbearia/",
+  "maps": "https://www.google.com/maps?cid=18414625336305632858",
+  "hours": [
+    [
+      "Segunda a sábado",
+      "9h às 20h"
+    ],
+    [
+      "Domingo",
+      "9h às 12h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/23/photo-3.webp",
+  "logo": "media/23/logo.webp",
+  "gallery": [
+    "media/23/photo-2.webp",
+    "media/23/photo-3.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "A Cleber Barber fica na Avenida Edson Brandão, quase em frente ao Eco Park. Conheça os trabalhos e fale com o barbeiro.",
+  "researchDate": "2026-10-13"
+}

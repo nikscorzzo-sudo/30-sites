@@ -1,0 +1,69 @@
+{
+  "id": 30,
+  "slug": "30-fenix-lanches",
+  "name": "Fênix Lanches",
+  "kind": "food",
+  "neighborhood": "Maranhão Novo",
+  "headline": "A noite pede um Fênix.",
+  "description": "Lanches no Maranhão Novo, em frente ao Shopping da Ilha. Escolha o que deu vontade e converse pelo WhatsApp.",
+  "accent": "#d56427",
+  "address": "Av. Daniel de La Touche, s/n, próximo ao nº 4",
+  "whatsapp": "5598984020186",
+  "instagram": "https://www.instagram.com/fenixlanches/",
+  "maps": "https://www.google.com/maps?cid=17591590102336518203",
+  "hours": [
+    [
+      "Todos os dias",
+      "18h às 3h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Fênix",
+      "category": "Sanduíches",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Americano",
+      "category": "Sanduíches",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-3",
+      "name": "Hot-dog",
+      "category": "Hot-dogs",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-4",
+      "name": "Frango bacon",
+      "category": "Sanduíches",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-5",
+      "name": "Frango calabresa",
+      "category": "Sanduíches",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/30/photo-1.webp",
+  "logo": "media/30/logo.webp",
+  "gallery": [
+    "media/30/photo-1.webp",
+    "media/30/photo-2.webp",
+    "media/30/photo-3.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "food",
+  "about": "Lanches no Maranhão Novo, em frente ao Shopping da Ilha. Escolha o que deu vontade e converse pelo WhatsApp.",
+  "researchDate": "2026-10-13"
+}

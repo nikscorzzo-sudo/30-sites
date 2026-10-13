@@ -1,0 +1,39 @@
+{
+  "id": 10,
+  "slug": "10-hamburgueria-ddd98",
+  "name": "Hamburgueria DDD98",
+  "kind": "food",
+  "neighborhood": "Jardim Eldorado",
+  "headline": "Sabor artesanal. Sotaque da ilha.",
+  "description": "A DDD98 leva hambúrgueres artesanais para eventos em São Luís. Converse sobre o seu evento e as opções disponíveis.",
+  "accent": "#d2b8ea",
+  "address": "R. Aririzal, 361",
+  "whatsapp": "5598985049997",
+  "instagram": "https://www.instagram.com/ddd9oito/",
+  "maps": "https://www.google.com/maps?cid=13459069445482278319",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Hambúrguer artesanal",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Hambúrgueres para eventos",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": null,
+  "logo": "media/10/logo.webp",
+  "gallery": [],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "events",
+  "about": "A DDD98 leva hambúrgueres artesanais para eventos em São Luís. Converse sobre o seu evento e as opções disponíveis.",
+  "researchDate": "2026-10-13"
+}

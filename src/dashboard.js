@@ -1,0 +1,3 @@
+const search=document.getElementById('project-search');let kind='all';
+function filter(){const query=search.value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();let count=0;document.querySelectorAll('.project').forEach(card=>{card.hidden=!(kind==='all'||card.dataset.kind===kind)||!card.dataset.name.includes(query);if(!card.hidden)count++;});document.querySelector('.results').textContent=count+' projeto'+(count===1?'':'s');document.getElementById('no-results').hidden=count>0;}
+document.querySelectorAll('.tabs button').forEach(b=>b.addEventListener('click',()=>{kind=b.dataset.kind;document.querySelectorAll('.tabs button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));filter();}));search.addEventListener('input',filter);

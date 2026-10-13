@@ -1,0 +1,51 @@
+{
+  "id": 16,
+  "slug": "16-restaurante-delicias-do-sol",
+  "name": "Restaurante Delícias do Sol",
+  "kind": "food",
+  "neighborhood": "Centro",
+  "headline": "Seu almoço tem endereço no Centro.",
+  "description": "Comida caseira na Rua do Sol, 441b. Conheça o Delícias do Sol e consulte as opções disponíveis para o almoço.",
+  "accent": "#ab7823",
+  "address": "R. do Sol, 441b",
+  "whatsapp": "5598984765416",
+  "instagram": "https://www.instagram.com/deliciasdosolslz/",
+  "maps": "https://www.google.com/maps?cid=3768264840176168206",
+  "hours": [
+    [
+      "Segunda a sexta",
+      "Consulte o horário"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Comida caseira",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Bode ao leite de coco",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-3",
+      "name": "Galinha caipira",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": null,
+  "logo": "media/16/logo.webp",
+  "gallery": [],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "food",
+  "about": "Comida caseira na Rua do Sol, 441b. Conheça o Delícias do Sol e consulte as opções disponíveis para o almoço.",
+  "researchDate": "2026-10-13"
+}

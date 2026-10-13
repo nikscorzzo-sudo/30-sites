@@ -1,0 +1,43 @@
+{
+  "id": 21,
+  "slug": "21-barbearia-legends",
+  "name": "Barbearia Legends",
+  "kind": "barber",
+  "neighborhood": "Cohatrac IV",
+  "headline": "Seu visual tem uma nova história.",
+  "description": "Cortes masculinos e barba no Cohatrac IV. Veja os trabalhos da Legends e converse sobre o seu horário.",
+  "accent": "#bdb4a2",
+  "address": "Av. Contorno Norte, 01, loja 05",
+  "whatsapp": "5598981978603",
+  "instagram": "https://www.instagram.com/barbearialegends/",
+  "maps": "https://www.google.com/maps?cid=13701803740595408848",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/21/photo-1.webp",
+  "logo": "media/21/logo.webp",
+  "gallery": [
+    "media/21/photo-1.webp",
+    "media/21/photo-2.webp",
+    "media/21/photo-3.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "Cortes masculinos e barba no Cohatrac IV. Veja os trabalhos da Legends e converse sobre o seu horário.",
+  "researchDate": "2026-10-13"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 9,
+  "slug": "09-ilha-brasa-burguer",
+  "name": "Ilha Brasa Burguer",
+  "kind": "food",
+  "neighborhood": "Tirirical",
+  "headline": "Da brasa para a sua vontade.",
+  "description": "Hambúrguer artesanal, blend selecionado e o sabor da brasa no Tirirical. Consulte o cardápio do dia com a Ilha Brasa.",
+  "accent": "#f0a640",
+  "address": "Rua João Alberto, 35",
+  "whatsapp": "5598985498570",
+  "instagram": "https://www.instagram.com/ilhabrasaburguer/",
+  "maps": "https://www.google.com/maps?cid=16851710925307799484",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Hambúrguer artesanal",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": null,
+  "logo": "media/09/logo.webp",
+  "gallery": [],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "food",
+  "about": "Hambúrguer artesanal, blend selecionado e o sabor da brasa no Tirirical. Consulte o cardápio do dia com a Ilha Brasa.",
+  "researchDate": "2026-10-13"
+}

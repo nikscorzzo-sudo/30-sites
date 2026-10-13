@@ -1,0 +1,35 @@
+{
+  "id": 15,
+  "slug": "15-restaurante-rancho-caseiro",
+  "name": "Restaurante Rancho Caseiro",
+  "kind": "food",
+  "neighborhood": "Araçagi / Jardim II",
+  "headline": "Tempero de casa, mesa posta.",
+  "description": "O Rancho Caseiro é um convite para saborear comida caseira. Fale com a equipe e consulte as opções do dia.",
+  "accent": "#b14d36",
+  "address": "Araçagi / Jardim II — consulte a localização com a equipe",
+  "whatsapp": "5598988442587",
+  "instagram": "https://www.instagram.com/ranchocaseiro_/",
+  "maps": "https://www.google.com/maps?cid=5944780966492241903",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Refeição caseira",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/15/photo-1.webp",
+  "logo": "media/15/logo.webp",
+  "gallery": [
+    "media/15/photo-1.webp",
+    "media/15/photo-2.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "food",
+  "about": "O Rancho Caseiro é um convite para saborear comida caseira. Fale com a equipe e consulte as opções do dia.",
+  "researchDate": "2026-10-13"
+}

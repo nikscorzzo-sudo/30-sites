@@ -1,0 +1,48 @@
+{
+  "id": 4,
+  "slug": "04-sr-guimaraes-barbearia",
+  "name": "Sr. Guimarães Barbearia",
+  "kind": "barber",
+  "neighborhood": "São Francisco",
+  "headline": "Cuidar do visual faz parte do dia.",
+  "description": "A Sr. Guimarães recebe você no São Francisco. Consulte a equipe e combine seu horário pelo WhatsApp.",
+  "accent": "#b5b9ad",
+  "address": "Av. Castelo Branco, loja 2",
+  "whatsapp": "5598986020870",
+  "instagram": "https://www.instagram.com/barbeariasrguimaraes/",
+  "maps": "https://www.google.com/maps?cid=16181069878501518407",
+  "hours": [
+    [
+      "Segunda a sábado",
+      "9h às 20h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/04/photo-2.webp",
+  "logo": "media/04/logo.webp",
+  "gallery": [
+    "media/04/photo-1.webp",
+    "media/04/photo-2.webp",
+    "media/04/photo-3.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "A Sr. Guimarães recebe você no São Francisco. Consulte a equipe e combine seu horário pelo WhatsApp.",
+  "researchDate": "2026-10-13"
+}

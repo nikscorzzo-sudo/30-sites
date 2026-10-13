@@ -1,0 +1,48 @@
+{
+  "id": 25,
+  "slug": "25-coimbra-barbershop",
+  "name": "Coimbra Barbershop",
+  "kind": "barber",
+  "neighborhood": "Bequimão",
+  "headline": "Lança teu corte, Bequimão.",
+  "description": "A Coimbra Barbershop está na Rua Doze, atrás do Mix Pinheiro. Consulte os serviços e os horários pelo WhatsApp.",
+  "accent": "#c3a77d",
+  "address": "R. Doze, quadra 14, loja B",
+  "whatsapp": "5598984024536",
+  "instagram": "https://www.instagram.com/coimbrabarbershopp/",
+  "maps": "https://www.google.com/maps?cid=16169840052939499036",
+  "hours": [
+    [
+      "Segunda a sábado",
+      "8h às 20h"
+    ],
+    [
+      "Domingo",
+      "8h às 13h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": null,
+  "logo": "media/25/logo.webp",
+  "gallery": [],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "A Coimbra Barbershop está na Rua Doze, atrás do Mix Pinheiro. Consulte os serviços e os horários pelo WhatsApp.",
+  "researchDate": "2026-10-13"
+}

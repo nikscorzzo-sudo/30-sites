@@ -1,0 +1,42 @@
+{
+  "id": 17,
+  "slug": "17-restaurante-oliveiras",
+  "name": "Restaurante Oliveiras",
+  "kind": "food",
+  "neighborhood": "Centro",
+  "headline": "Comida caseira, feita na hora.",
+  "description": "O Restaurante Oliveiras fica na Alameda Escuro, no Centro. Converse sobre os pratos do dia e as opções de delivery.",
+  "accent": "#89711e",
+  "address": "Alameda Escuro, 167 — Centro",
+  "whatsapp": "5598987580374",
+  "instagram": "https://www.instagram.com/restaurante_oliveiras_/",
+  "maps": "https://www.google.com/maps?cid=18060936758298371657",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Refeição caseira",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Delivery",
+      "category": "Cardápio",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/17/photo-2.webp",
+  "logo": "media/17/logo.webp",
+  "gallery": [
+    "media/17/photo-1.webp",
+    "media/17/photo-2.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "food",
+  "about": "O Restaurante Oliveiras fica na Alameda Escuro, no Centro. Converse sobre os pratos do dia e as opções de delivery.",
+  "researchDate": "2026-10-13"
+}

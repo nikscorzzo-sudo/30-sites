@@ -1,0 +1,43 @@
+{
+  "id": 24,
+  "slug": "24-barbearia-rei-do-corte",
+  "name": "Barbearia Rei do Corte",
+  "kind": "barber",
+  "neighborhood": "Turu",
+  "headline": "Estilo de rei, do seu jeito.",
+  "description": "Cortes masculinos para adultos e crianças na Avenida São Luís Rei de França, no Turu.",
+  "accent": "#65c4a3",
+  "address": "Av. São Luís Rei de França",
+  "whatsapp": "5598985942055",
+  "instagram": "https://www.instagram.com/barbearia_reidocorte_/",
+  "maps": "https://www.google.com/maps?cid=5453954164914614131",
+  "hours": [],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte adulto",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Corte infantil",
+      "category": "Infantil",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/24/photo-2.webp",
+  "logo": "media/24/logo.webp",
+  "gallery": [
+    "media/24/photo-1.webp",
+    "media/24/photo-2.webp",
+    "media/24/photo-3.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "Cortes masculinos para adultos e crianças na Avenida São Luís Rei de França, no Turu.",
+  "researchDate": "2026-10-13"
+}

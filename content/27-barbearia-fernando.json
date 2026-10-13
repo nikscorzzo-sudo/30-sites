@@ -1,0 +1,53 @@
+{
+  "id": 27,
+  "slug": "27-barbearia-fernando",
+  "name": "Barbearia Fernando",
+  "kind": "barber",
+  "neighborhood": "Cruzeiro do Anil",
+  "headline": "Seu visual, bem alinhado.",
+  "description": "Conheça os trabalhos da Barbearia Fernando, na Avenida São Sebastião, Cruzeiro do Anil.",
+  "accent": "#b4b5c0",
+  "address": "Av. São Sebastião",
+  "whatsapp": "5598988129986",
+  "instagram": "https://www.instagram.com/barbeariafernando_ofc/",
+  "maps": "https://www.google.com/maps?cid=13634642221568354920",
+  "hours": [
+    [
+      "Terça a sexta",
+      "8h às 18h30"
+    ],
+    [
+      "Intervalo de terça a sexta",
+      "12h às 14h30"
+    ],
+    [
+      "Sábado",
+      "8h às 18h"
+    ],
+    [
+      "Domingo",
+      "7h30 às 11h30"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/27/photo-2.webp",
+  "logo": "media/27/logo.webp",
+  "gallery": [
+    "media/27/photo-1.webp",
+    "media/27/photo-2.webp",
+    "media/27/photo-3.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "Conheça os trabalhos da Barbearia Fernando, na Avenida São Sebastião, Cruzeiro do Anil.",
+  "researchDate": "2026-10-13"
+}

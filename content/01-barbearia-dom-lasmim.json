@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "slug": "01-barbearia-dom-lasmim",
+  "name": "Barbearia Dom Lasmim",
+  "kind": "barber",
+  "neighborhood": "Cohajap",
+  "headline": "A arte do cuidado masculino.",
+  "description": "Estilo e personalidade no Marcus Barbosa Empresarial, no Cohajap. Conheça a Dom Lasmim e converse sobre o seu próximo corte.",
+  "accent": "#cf9b69",
+  "address": "Av. Daniel de La Touche, 07-08",
+  "whatsapp": "5598987575069",
+  "instagram": "https://www.instagram.com/domlasmimbarbearia/",
+  "maps": "https://www.google.com/maps?cid=8170613102134034012",
+  "hours": [
+    [
+      "Segunda a sábado",
+      "9h às 20h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Cortes",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Corte infantil",
+      "category": "Infantil",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/01/photo-2.webp",
+  "logo": "media/01/logo.webp",
+  "gallery": [
+    "media/01/photo-2.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "Estilo e personalidade no Marcus Barbosa Empresarial, no Cohajap. Conheça a Dom Lasmim e converse sobre o seu próximo corte.",
+  "researchDate": "2026-10-13"
+}

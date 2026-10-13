@@ -1,0 +1,52 @@
+{
+  "id": 26,
+  "slug": "26-dsantos-barbearia",
+  "name": "D’Santos Barbearia",
+  "kind": "barber",
+  "neighborhood": "Turu",
+  "headline": "O cuidado começa nos detalhes.",
+  "description": "Daniel Santos e Keven Frazão recebem você na D’Santos, na Rua São José, no Turu. Converse com a equipe sobre seu próximo visual.",
+  "accent": "#c4bc77",
+  "address": "R. São José",
+  "whatsapp": "5598984653605",
+  "instagram": "https://www.instagram.com/barbeshop_dsantos/",
+  "maps": "https://www.google.com/maps?cid=8432066006619246612",
+  "hours": [
+    [
+      "Segunda a sábado",
+      "8h às 18h"
+    ],
+    [
+      "Domingo",
+      "8h às 13h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    },
+    {
+      "id": "item-2",
+      "name": "Barba",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/26/photo-3.webp",
+  "logo": "media/26/logo.webp",
+  "gallery": [
+    "media/26/photo-1.webp",
+    "media/26/photo-2.webp",
+    "media/26/photo-3.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "Daniel Santos e Keven Frazão recebem você na D’Santos, na Rua São José, no Turu. Converse com a equipe sobre seu próximo visual.",
+  "researchDate": "2026-10-13"
+}

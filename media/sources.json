@@ -1,0 +1,908 @@
+[
+  {
+    "id": 1,
+    "images": [
+      {
+        "file": "media/01/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/domlasmimbarbearia/",
+        "source_file": "557856865_17847616794571881_438835649671980649_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/01/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/domlasmimbarbearia/",
+        "source_file": "627668785_916989704353275_477355416877312920_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/01/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/domlasmimbarbearia/",
+        "source_file": "590430094_25274656412155550_7904366928794975147_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/01/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/domlasmimbarbearia/",
+        "source_file": "842717924_17906194677571881_4305419688047301911_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "images": [
+      {
+        "file": "media/02/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/barbeariapaisefilhos/",
+        "source_file": "265056904_1824204531104294_8620312131223389584_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/02/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariapaisefilhos/",
+        "source_file": "839044635_18392610085207674_722691449405380011_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/02/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariapaisefilhos/",
+        "source_file": "832475651_18391528129207674_3454061310883163480_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/02/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariapaisefilhos/",
+        "source_file": "821708495_18390421816207674_7494363111753772328_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "images": [
+      {
+        "file": "media/03/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/vinicius_barbero/",
+        "source_file": "610532318_18105023710707222_2678278023629386892_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/03/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/vinicius_barbero/",
+        "source_file": "560587590_2325953874587792_6450800136504148066_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/03/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/vinicius_barbero/",
+        "source_file": "488261510_18078268678707222_7086919371553234754_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/03/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/vinicius_barbero/",
+        "source_file": "474978478_18071939443707222_6195502453109083175_n.webp",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "images": [
+      {
+        "file": "media/04/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/barbeariasrguimaraes/",
+        "source_file": "425879046_752248533525239_2014435049367679992_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/04/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariasrguimaraes/",
+        "source_file": "524129970_18287736964268031_4685436872754650505_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/04/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariasrguimaraes/",
+        "source_file": "503403904_18281925229268031_2540362865043373932_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/04/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariasrguimaraes/",
+        "source_file": "843366696_18346623232268031_6207558997370620749_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "images": [
+      {
+        "file": "media/05/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/maxbarbeariaa_/",
+        "source_file": "132647011_871693280269815_7043944704097474530_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/05/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/maxbarbeariaa_/",
+        "source_file": "625219709_18101059594700645_1975205775649743388_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/05/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/maxbarbeariaa_/",
+        "source_file": "625095106_18131604337513650_7381101226383154897_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/05/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/maxbarbeariaa_/",
+        "source_file": "619333813_17951310312082138_2091306247324430843_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "images": [
+      {
+        "file": "media/06/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/barbeariaboleiragem/",
+        "source_file": "320012665_812928283279389_5552354768633752652_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/06/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariaboleiragem/",
+        "source_file": "784394292_18115594858939149_7164113098801170970_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/06/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariaboleiragem/",
+        "source_file": "689211618_18105034531939149_9068819659779407948_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "images": [
+      {
+        "file": "media/07/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/ricks_barbearia_/",
+        "source_file": "481362354_644079901910032_5767411657688054127_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/07/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/ricks_barbearia_/",
+        "source_file": "481219886_17864875872343533_3374097007193196782_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/07/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/ricks_barbearia_/",
+        "source_file": "481582142_17864878488343533_4219944377325377782_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "images": [
+      {
+        "file": "media/08/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/barbeariacartolagold/",
+        "source_file": "830177752_18421475794152596_6353741156287368525_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/08/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariacartolagold/",
+        "source_file": "622882840_18383939098152596_6439396960360562500_n.webp",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/08/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariacartolagold/",
+        "source_file": "609522563_18381323152152596_8554552263650765286_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/08/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariacartolagold/",
+        "source_file": "843264648_18423080950152596_6437974344301312644_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "images": [
+      {
+        "file": "media/09/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/ilhabrasaburguer/",
+        "source_file": "637058631_18565664842004401_5550344249115741183_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/09/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/ilhabrasaburguer/",
+        "source_file": "635072482_18565721020004401_2742981721665970112_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "images": [
+      {
+        "file": "media/10/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/ddd9oito/",
+        "source_file": "649522634_18059338703680060_1686884306649866796_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/10/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/ddd9oito/",
+        "source_file": "846824767_18090048440680060_2742669719814060069_n.webp",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/10/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/ddd9oito/",
+        "source_file": "842678275_18089478020680060_1387358576664034145_n.webp",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/10/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/ddd9oito/",
+        "source_file": "840033936_18089474102680060_2832430439179111594_n.webp",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "images": [
+      {
+        "file": "media/11/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/__barbearia_express/",
+        "source_file": "522113878_17976299852856130_880877136973755845_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/11/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/__barbearia_express/",
+        "source_file": "733519691_18016323338856130_6842138833576205516_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/11/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/__barbearia_express/",
+        "source_file": "710431751_1890985191500070_6468725555705679781_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/11/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/__barbearia_express/",
+        "source_file": "705365386_18010365791856130_9097218589253470981_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "images": [
+      {
+        "file": "media/12/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/terracusrestaurante/",
+        "source_file": "272014076_674133506938848_8140018434287960962_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/12/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/terracusrestaurante/",
+        "source_file": "620978266_18058252625649818_3651591065360867787_n.webp",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "images": [
+      {
+        "file": "media/13/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/talherdeouro_1/",
+        "source_file": "424495285_399617532745891_4298318987760825328_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/13/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/talherdeouro_1/",
+        "source_file": "481825000_18018888221676566_5904192950095501311_n.webp",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/13/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/talherdeouro_1/",
+        "source_file": "481168020_18018875618676566_7851368288634693140_n.webp",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/13/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/talherdeouro_1/",
+        "source_file": "627456492_18336612862210367_9221812670559529259_n.webp",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "images": [
+      {
+        "file": "media/14/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/sabordailha01/",
+        "source_file": "274055085_960553477980179_4225573551443857557_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "images": [
+      {
+        "file": "media/15/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/ranchocaseiro_/",
+        "source_file": "275823993_667765941176021_1922901555352843159_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/15/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/ranchocaseiro_/",
+        "source_file": "497618440_9679759812089768_7577677249402876727_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/15/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/ranchocaseiro_/",
+        "source_file": "334072795_739427631102811_8673299720664510848_n.png",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/15/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/ranchocaseiro_/",
+        "source_file": "342421212_6646358495456817_5580462627464888190_n.png",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "images": [
+      {
+        "file": "media/16/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/deliciasdosolslz/",
+        "source_file": "119573687_174703340799250_4236936344278993328_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/16/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/deliciasdosolslz/",
+        "source_file": "654435739_1647731843557219_7598956508370353763_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/16/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/deliciasdosolslz/",
+        "source_file": "607280025_18500921098077005_4283298087621769981_n.heic",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/16/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/deliciasdosolslz/",
+        "source_file": "587802231_18500918467077005_6648853678135325324_n.heic",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "images": [
+      {
+        "file": "media/17/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/restaurante_oliveiras_/",
+        "source_file": "473165869_1130991088486410_206267786741835453_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/17/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/restaurante_oliveiras_/",
+        "source_file": "494432827_17922600789069089_7297830353498744225_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/17/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/restaurante_oliveiras_/",
+        "source_file": "491454275_1790592918387779_8477706099148623886_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "images": [
+      {
+        "file": "media/18/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/marmita_fit_slz/",
+        "source_file": "660748877_18314897776287047_7388287507971666465_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/18/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/marmita_fit_slz/",
+        "source_file": "475884670_18259727983287047_7108620998650174791_n.webp",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/18/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/marmita_fit_slz/",
+        "source_file": "475694813_1322742238758240_8001281142099567813_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/18/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/marmita_fit_slz/",
+        "source_file": "834297112_18342404221287047_5096453379758582360_n.webp",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "images": [
+      {
+        "file": "media/19/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/edsonunesbarbearia/",
+        "source_file": "50083428_526904544467573_466832858829291520_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/19/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/edsonunesbarbearia/",
+        "source_file": "655218443_18105287968859876_8468981056093457757_n.webp",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/19/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/edsonunesbarbearia/",
+        "source_file": "651074314_18110144047812602_6246485014454560955_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/19/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/edsonunesbarbearia/",
+        "source_file": "629210815_18352556149203924_5519396763756404498_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "images": [
+      {
+        "file": "media/20/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/openbarbaslz/",
+        "source_file": "416016448_773603527939112_5156477232557207366_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/20/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/openbarbaslz/",
+        "source_file": "841140842_18331164805273857_7350891187260371665_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/20/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/openbarbaslz/",
+        "source_file": "842344126_18331163653273857_5122741797455198685_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/20/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/openbarbaslz/",
+        "source_file": "829806119_18330157891273857_9055219020638734340_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "images": [
+      {
+        "file": "media/21/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/barbearialegends/",
+        "source_file": "370940949_679084553822278_1153403570306292740_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/21/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbearialegends/",
+        "source_file": "517579550_1435258694385872_4979429271575870716_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/21/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbearialegends/",
+        "source_file": "812400700_18016926533939680_57059381482740102_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/21/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbearialegends/",
+        "source_file": "798246270_1277164154441339_4314131432523513345_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "images": [
+      {
+        "file": "media/22/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/lord.barbearia__/",
+        "source_file": "277811745_527858795384557_3808483756334471775_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/22/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/lord.barbearia__/",
+        "source_file": "804305856_18110073011109722_4821634906073749932_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/22/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/lord.barbearia__/",
+        "source_file": "781959017_18108632474109722_9080974301386110645_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/22/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/lord.barbearia__/",
+        "source_file": "606970935_18084042191109722_6764505076083252684_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "images": [
+      {
+        "file": "media/23/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/cleberbarberbarbearia/",
+        "source_file": "342518594_161868499852889_9086764560196862297_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/23/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/cleberbarberbarbearia/",
+        "source_file": "499839615_691314526876786_4903526748697638604_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/23/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/cleberbarberbarbearia/",
+        "source_file": "500704506_24233069532952454_3542769100470237654_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/23/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/cleberbarberbarbearia/",
+        "source_file": "625220719_18132512464515523_8456887703882444094_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "images": [
+      {
+        "file": "media/24/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/barbearia_reidocorte_/",
+        "source_file": "151863214_466409024672425_5060693551347536204_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/24/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbearia_reidocorte_/",
+        "source_file": "626693122_18255044629288425_14090743236380578_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/24/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbearia_reidocorte_/",
+        "source_file": "620485801_18081958988217431_108663585403738624_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/24/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbearia_reidocorte_/",
+        "source_file": "624049398_18124262338483427_53590647465182254_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "images": [
+      {
+        "file": "media/25/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/coimbrabarbershopp/",
+        "source_file": "330989643_189327893743857_5470026013794582153_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/25/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/coimbrabarbershopp/",
+        "source_file": "499315196_1020987376832111_6711458784873032965_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/25/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/coimbrabarbershopp/",
+        "source_file": "502253381_675125562074013_1482823058683132055_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/25/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/coimbrabarbershopp/",
+        "source_file": "622371358_18100335856850469_6669757834451689008_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "images": [
+      {
+        "file": "media/26/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/barbeshop_dsantos/",
+        "source_file": "741728031_17996759108985504_931395609285562931_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/26/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeshop_dsantos/",
+        "source_file": "741112827_17996761514985504_3567176107098617614_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/26/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeshop_dsantos/",
+        "source_file": "732863447_17996761439985504_9052516845436604577_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/26/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeshop_dsantos/",
+        "source_file": "733747021_17996761391985504_153150171743967254_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "images": [
+      {
+        "file": "media/27/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/barbeariafernando_ofc/",
+        "source_file": "769514076_18091083104387983_437723834387322241_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/27/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariafernando_ofc/",
+        "source_file": "552391373_18058298540387983_376263958712752950_n.webp",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/27/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariafernando_ofc/",
+        "source_file": "485124716_18040523570387983_8507799088527203681_n.webp",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/27/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/barbeariafernando_ofc/",
+        "source_file": "627227451_18364124062161031_5314974746357898169_n.webp",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "images": [
+      {
+        "file": "media/28/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/brahiambarbearia/",
+        "source_file": "804605636_18118551644511009_4928110958013154332_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/28/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/brahiambarbearia/",
+        "source_file": "574782417_18081318062511009_2830196166150255129_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "images": [
+      {
+        "file": "media/29/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/jordanbarbearia_/",
+        "source_file": "306439929_1235934083883782_2693634550314308180_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/29/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/jordanbarbearia_/",
+        "source_file": "641285549_1943584326256240_5876554204742266840_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/29/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/jordanbarbearia_/",
+        "source_file": "652859105_3427196900762021_932414684923886978_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/29/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/jordanbarbearia_/",
+        "source_file": "482800048_18374396794190697_3197850216186104245_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "images": [
+      {
+        "file": "media/30/logo.webp",
+        "role": "logo",
+        "source_profile": "https://www.instagram.com/fenixlanches/",
+        "source_file": "283394852_1051148012499367_1791532930581597025_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/30/photo-1.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/fenixlanches/",
+        "source_file": "624964391_18101282518868736_7931289502222042314_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/30/photo-2.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/fenixlanches/",
+        "source_file": "503370944_1854423471792567_6433268452210394537_n.jpg",
+        "collected": "2026-10-13"
+      },
+      {
+        "file": "media/30/photo-3.webp",
+        "role": "photo",
+        "source_profile": "https://www.instagram.com/fenixlanches/",
+        "source_file": "503426264_1291689145818958_3700899976654902578_n.jpg",
+        "collected": "2026-10-13"
+      }
+    ]
+  }
+]

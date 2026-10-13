@@ -1,0 +1,44 @@
+{
+  "id": 19,
+  "slug": "19-ben-edson-nunes",
+  "name": "Ben — Edson Nunes",
+  "kind": "barber",
+  "neighborhood": "São Francisco",
+  "headline": "Seu corte, no São Francisco.",
+  "description": "A Barbearia Edson Nunes recebe você na Rua Agenor Vieira. Conheça os trabalhos e consulte o atendimento.",
+  "accent": "#c6c477",
+  "address": "Rua Agenor Vieira, 419 B — São Francisco",
+  "whatsapp": "5598982130021",
+  "instagram": "https://www.instagram.com/edsonunesbarbearia/",
+  "maps": "https://www.google.com/maps?cid=12652916727003645191",
+  "hours": [
+    [
+      "Segunda a sexta",
+      "8h às 18h"
+    ],
+    [
+      "Sábado",
+      "8h às 12h"
+    ]
+  ],
+  "catalog": [
+    {
+      "id": "item-1",
+      "name": "Corte masculino",
+      "category": "Serviços",
+      "description": "Consulte os detalhes e a disponibilidade com a equipe.",
+      "price": null
+    }
+  ],
+  "heroImage": "media/19/photo-2.webp",
+  "logo": "media/19/logo.webp",
+  "gallery": [
+    "media/19/photo-2.webp",
+    "media/19/photo-3.webp"
+  ],
+  "preview": true,
+  "contactNote": "Pedidos e horários são confirmados pela equipe no WhatsApp.",
+  "orderMode": "appointment",
+  "about": "A Barbearia Edson Nunes recebe você na Rua Agenor Vieira. Conheça os trabalhos e consulte o atendimento.",
+  "researchDate": "2026-10-13"
+}
