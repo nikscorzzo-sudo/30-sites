@@ -1,0 +1,249 @@
+{
+  "collection": "https://30-sites-sao-luis.pages.dev/",
+  "hosting": "Cloudflare Pages — Direct Upload",
+  "gitHub": "https://github.com/nikscorzzo-sudo/30-sites",
+  "automaticGitDeployment": false,
+  "verifiedOn": "2026-10-13",
+  "sites": [
+    {
+      "id": 1,
+      "name": "Barbearia Dom Lasmim",
+      "slug": "01-barbearia-dom-lasmim",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/01-barbearia-dom-lasmim/",
+      "whatsapp": "5598987575069",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 2,
+      "name": "Pais e Filhos",
+      "slug": "02-pais-e-filhos",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/02-pais-e-filhos/",
+      "whatsapp": "5598991446749",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 3,
+      "name": "Barbearia Vinicius Berbare",
+      "slug": "03-barbearia-vinicius-berbare",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/03-barbearia-vinicius-berbare/",
+      "whatsapp": "5598986088604",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 4,
+      "name": "Sr. Guimarães Barbearia",
+      "slug": "04-sr-guimaraes-barbearia",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/04-sr-guimaraes-barbearia/",
+      "whatsapp": "5598986020870",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 5,
+      "name": "Max Barbearia",
+      "slug": "05-max-barbearia",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/05-max-barbearia/",
+      "whatsapp": "5598989187850",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 6,
+      "name": "Boleiragem Barbearia",
+      "slug": "06-boleiragem-barbearia",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/06-boleiragem-barbearia/",
+      "whatsapp": "5598982660574",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 7,
+      "name": "Rick’s Barbearia",
+      "slug": "07-ricks-barbearia",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/07-ricks-barbearia/",
+      "whatsapp": "5598989247025",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 8,
+      "name": "Barbearia Cartola Gold",
+      "slug": "08-barbearia-cartola-gold",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/08-barbearia-cartola-gold/",
+      "whatsapp": "5598988745765",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 9,
+      "name": "Ilha Brasa Burguer",
+      "slug": "09-ilha-brasa-burguer",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/09-ilha-brasa-burguer/",
+      "whatsapp": "5598985498570",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 10,
+      "name": "Hamburgueria DDD98",
+      "slug": "10-hamburgueria-ddd98",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/10-hamburgueria-ddd98/",
+      "whatsapp": "5598985049997",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 11,
+      "name": "Barbearia Express",
+      "slug": "11-barbearia-express",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/11-barbearia-express/",
+      "whatsapp": "5598984689832",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 12,
+      "name": "Terraçus Restaurante",
+      "slug": "12-terracus-restaurante",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/12-terracus-restaurante/",
+      "whatsapp": "5598981290661",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 13,
+      "name": "Talher de Ouro",
+      "slug": "13-talher-de-ouro",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/13-talher-de-ouro/",
+      "whatsapp": "5598984351842",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 14,
+      "name": "Sabor da Ilha Restaurante",
+      "slug": "14-sabor-da-ilha-restaurante",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/14-sabor-da-ilha-restaurante/",
+      "whatsapp": "5598981433667",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 15,
+      "name": "Restaurante Rancho Caseiro",
+      "slug": "15-restaurante-rancho-caseiro",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/15-restaurante-rancho-caseiro/",
+      "whatsapp": "5598988442587",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 16,
+      "name": "Restaurante Delícias do Sol",
+      "slug": "16-restaurante-delicias-do-sol",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/16-restaurante-delicias-do-sol/",
+      "whatsapp": "5598984765416",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 17,
+      "name": "Restaurante Oliveiras",
+      "slug": "17-restaurante-oliveiras",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/17-restaurante-oliveiras/",
+      "whatsapp": "5598987580374",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 18,
+      "name": "Marmita Fit SLZ",
+      "slug": "18-marmita-fit-slz",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/18-marmita-fit-slz/",
+      "whatsapp": "5598985236280",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 19,
+      "name": "Ben — Edson Nunes",
+      "slug": "19-ben-edson-nunes",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/19-ben-edson-nunes/",
+      "whatsapp": "5598982130021",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 20,
+      "name": "Open Barba",
+      "slug": "20-open-barba",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/20-open-barba/",
+      "whatsapp": "5598981122411",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 21,
+      "name": "Barbearia Legends",
+      "slug": "21-barbearia-legends",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/21-barbearia-legends/",
+      "whatsapp": "5598981978603",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 22,
+      "name": "Lord Barbearia",
+      "slug": "22-lord-barbearia",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/22-lord-barbearia/",
+      "whatsapp": "5598982519640",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 23,
+      "name": "Cleber Barber Barbearia",
+      "slug": "23-cleber-barber-barbearia",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/23-cleber-barber-barbearia/",
+      "whatsapp": "5598982661085",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 24,
+      "name": "Barbearia Rei do Corte",
+      "slug": "24-barbearia-rei-do-corte",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/24-barbearia-rei-do-corte/",
+      "whatsapp": "5598985942055",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 25,
+      "name": "Coimbra Barbershop",
+      "slug": "25-coimbra-barbershop",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/25-coimbra-barbershop/",
+      "whatsapp": "5598984024536",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 26,
+      "name": "D’Santos Barbearia",
+      "slug": "26-dsantos-barbearia",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/26-dsantos-barbearia/",
+      "whatsapp": "5598984653605",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 27,
+      "name": "Barbearia Fernando",
+      "slug": "27-barbearia-fernando",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/27-barbearia-fernando/",
+      "whatsapp": "5598988129986",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 28,
+      "name": "Brahiam Barbearia — Cohatrac",
+      "slug": "28-brahiam-barbearia-cohatrac",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/28-brahiam-barbearia-cohatrac/",
+      "whatsapp": "5598987887752",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 29,
+      "name": "Jordan Barbearia",
+      "slug": "29-jordan-barbearia",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/29-jordan-barbearia/",
+      "whatsapp": "5598984726123",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    },
+    {
+      "id": 30,
+      "name": "Fênix Lanches",
+      "slug": "30-fenix-lanches",
+      "url": "https://30-sites-sao-luis.pages.dev/sites/30-fenix-lanches/",
+      "whatsapp": "5598984020186",
+      "status": "Publicado; página, imagens principais, mapa e WhatsApp verificados"
+    }
+  ]
+}
