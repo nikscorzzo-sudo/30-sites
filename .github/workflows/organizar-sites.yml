@@ -1,0 +1,24 @@
+name: Organizar os 30 sites
+on:
+  push:
+    branches: [main]
+    paths: [source.zip, .github/workflows/organizar-sites.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  organizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extrair e verificar codigo
+        if: hashFiles('source.zip') != ''
+        run: |
+          python3 -c "import zipfile; z=zipfile.ZipFile('source.zip'); assert all(not n.startswith('/') and '..' not in n.split('/') for n in z.namelist()); z.extractall('.')"
+          node scripts/verify.mjs
+          git rm source.zip
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add .
+          git commit -m "Organize all 30 editable website folders"
+          git push
